@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - reputation
   - social perception
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post is a structured analytical essay involving political influence data analysis, empirical
+  data usage, and theoretical interpretation, which aligns well with 'Datascience' focused on data
+  analysis projects and political data workflows.
 ---
 
 # NRA-Political-Power: An Analytical Reference
@@ -57,3 +63,4 @@ The plain text format supports integration into larger analytical pipelines or c
 ## Summary
 
 The NRA-Political-Power repository is a focused analytical essay that challenges conventional wisdom about political influence. It highlights the importance of reputation and social perception over mere financial expenditure, offering a foundation for more sophisticated analyses of interest group power dynamics.
+
