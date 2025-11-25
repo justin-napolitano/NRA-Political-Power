@@ -1,32 +1,42 @@
 ---
 slug: github-nra-political-power
-title: Analytical Reference on NRA Political Power and Influence
+title: 'NRA Political Power: An Analytical Examination of Influence'
 repo: justin-napolitano/NRA-Political-Power
 githubUrl: https://github.com/justin-napolitano/NRA-Political-Power
 generatedAt: '2025-11-23T09:22:22.226855Z'
 source: github-auto
 summary: >-
-  Structured essay analyzing the NRA's political influence, emphasizing reputation and social
-  perception beyond financial contributions.
+  Explore how the NRA's political influence transcends financial contributions,
+  focusing on reputation and social perception.
 tags:
   - nra
   - political-influence
   - interest-groups
   - political-science
   - data-analysis
-seoPrimaryKeyword: nra political power
+  - political analysis
+  - NRA
+  - data visualization
+  - social influence
+  - OpenSecrets
+  - political science
+seoPrimaryKeyword: NRA political influence analysis
 seoSecondaryKeywords:
-  - political influence
-  - interest groups
-  - reputation
-  - social perception
+  - interest group power
+  - political contributions
+  - social perception in politics
+  - data analysis of influence
+  - reputation in politics
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post is a structured analytical essay involving political influence data analysis, empirical
-  data usage, and theoretical interpretation, which aligns well with 'Datascience' focused on data
-  analysis projects and political data workflows.
+  The post is a structured analytical essay involving political influence data
+  analysis, empirical data usage, and theoretical interpretation, which aligns
+  well with 'Datascience' focused on data analysis projects and political data
+  workflows.
+kind: project
+id: github-nra-political-power
 ---
 
 # NRA-Political-Power: An Analytical Reference
