@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/NRA-Political-Power
 generatedAt: '2025-11-24T21:35:48.794Z'
 source: github-auto
 summary: >-
-  An analytical essay on the NRA's political influence, challenging the notion
-  that money is the sole driver of power.
+  An analytical essay on the NRA's political influence, challenging the notion that money is the
+  sole driver of power.
 tags:
   - NRA
   - political influence
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - power theory Dahl
   - interest group comparison
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -66,4 +66,5 @@ full-text          # Main essay file containing the analysis
 - Incorporate quantitative data visualization to support arguments
 - Explore comparative analysis with other interest groups
 - Develop a web interface for interactive reading and annotation
+
 
