@@ -1,21 +1,30 @@
 ---
 slug: github-nra-political-power
 id: github-nra-political-power
-title: NRA-Political-Power
+title: 'NRA Political Power Analysis: Money vs. Reputation'
 repo: justin-napolitano/NRA-Political-Power
 githubUrl: https://github.com/justin-napolitano/NRA-Political-Power
 generatedAt: '2025-11-24T21:35:48.794Z'
 source: github-auto
 summary: >-
-  This repository contains an analytical essay exploring the nature of political
-  influence, specifically focusing on the National Rifle Association (NRA). The
-  essay challenges the common assumption that money alone equates to political
-  power and argues that reputation and social perception are the primary drivers
-  of influence.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  An analytical essay on the NRA's political influence, challenging the notion
+  that money is the sole driver of power.
+tags:
+  - NRA
+  - political influence
+  - campaign contributions
+  - lobbying
+  - power theory
+  - data visualization
+  - Markdown
+seoPrimaryKeyword: NRA political power analysis
+seoSecondaryKeywords:
+  - political influence essay
+  - campaign finance analysis
+  - lobbying expenditures
+  - power theory Dahl
+  - interest group comparison
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
